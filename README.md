@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Moyin 👋
 
-<!--
-**moyinoluwaorimolade/moyinoluwaorimolade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer specializing in scalable financial systems, enterprise applications, and distributed backend architecture. I also build modern frontend interfaces with Vue.js to deliver complete end-to-end solutions.
 
-Here are some ideas to get you started:
+## What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+
+* Java / Spring Boot
+* PostgreSQL / MySQL
+* RabbitMQ
+* Docker
+* REST APIs
+* Payment Gateway Integrations
+* Authentication & Authorization
+* Redis Caching
+
+### Frontend
+
+* Vue.js
+* JavaScript
+* HTML / CSS
+
+## Current Flagship Project
+
+### RevenueFlow
+
+A production-grade billing and payment reconciliation engine built to simulate real-world fintech infrastructure.
+
+Features:
+
+* Invoice generation
+* Payment webhook ingestion
+* Idempotency protection
+* Event-driven messaging
+* Audit trails
+* Financial reconciliation
+
+## Currently Learning
+
+* Distributed systems
+* Transactional Outbox Pattern
+* Event-driven architecture
+* Cloud / DevOps
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/moyino/
+GitHub: github.com/moyinoluwaorimolade
