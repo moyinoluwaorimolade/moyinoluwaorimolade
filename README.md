@@ -36,7 +36,7 @@ Features:
 * Audit trails
 * Financial reconciliation
 
-## Currently Learning
+## Currently Implementing
 
 * Distributed systems
 * Transactional Outbox Pattern
